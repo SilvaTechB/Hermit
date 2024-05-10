@@ -1,7 +1,24 @@
-#### HERMIT MD WHATSAPP BOT
+#### HERMIT MD WHATSAPP BOT MODIFIED BY SILVA TECH
 Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 ***
+<h1 align="center"> 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋 
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="150"></h1> 
+ <br>
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+am+Silva+Tech..&hearts;++;Self-taught+Back-End+Developer,;From+Kenya🇰🇪,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..🥂💕">
+  </a>
+</p>
+
+<p align="center"> Introducing HERMITE It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+
+
+<p align="center"> 
+<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+
 
 ### SETUP
 
