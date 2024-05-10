@@ -7,5 +7,4 @@ const connect = async () => {
 		console.error(error)
 	}
 }
-
 connect()
