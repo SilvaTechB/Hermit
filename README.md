@@ -9,11 +9,11 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+am+Silva+Tech..&hearts;++;Self-taught+Back-End+Developer,;From+Kenya🇰🇪,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..🥂💕">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=purpule&size=36&center=true&vCenter=true&width=600&height=100&lines=Hello+am+Silva+Tech..&hearts;++;Self-taught+Back-End+Developer,;From+Kenya🇰🇪,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..🥂💕">
   </a>
 </p>
 
-<p align="center"> Introducing HERMITE It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing HERMIT It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 
 <p align="center"> 
@@ -30,25 +30,25 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 1. If You don't have a account in Heroku. Create a account.
     <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-blue?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 3. Now Deploy
     <br>
-<a href='https://hermit.adithyan.xyz/deploy-heroku' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/Hermit' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 #### DEPLOY TO KOYEB 
 
 1. If You don't have a account in koyeb. Create a account.
     <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-3. Get [DATABASE_URL](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL) and copy it
+3. Get [DATABASE_URL](https://github.com/SilvaTechB/Hermit/wiki/DATABASE_URL) and copy it
 
 4. Get [Koyeb api key](https://app.koyeb.com/account/api)
 
 2. Now Deploy
     <br>
-<a href='https://hermit.adithyan.xyz/deploy-koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://github.com/SilvaTechB/Hermit' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 #### DEPLOY TO RAILWAY
 
@@ -58,7 +58,7 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 2. Now Deploy
     <br>
-<a href='https://railway.app/template/q20OfH?referralCode=b9IKyc' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+<a href='https://railway.app/template/q20OfH?referralCode=b9IKyc' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
 #### RUN ON VPS/UBUNTU/WINDOWS
 
