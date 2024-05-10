@@ -48,7 +48,7 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;²⁰²⁴ ∅ 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋;254700143167;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮;²⁰²⁴ ∅ 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮;254700143167;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
@@ -58,7 +58,7 @@
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮;²⁰²⁴ ∅ 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "READ_MSG": {
       "description": "Read all messages",
@@ -68,7 +68,7 @@
     "AUTO_STATUS_VIEW": {
       "description": "automatic read status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "REJECT_CALL": {
       "description": "automatic reject call",
