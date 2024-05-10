@@ -81,7 +81,7 @@ Function({
 		}
 		AFK.isAfk = true;
 
-		await message.send(Lang.IM_AFK + (AFK.reason !== false ? ('\n*' + Lang.REASON + ':* ```' + AFK.reason + '```') : ''));
+		await message.send(Lang.IM_silva_AFK + (AFK.reason !== false ? ('\n*' + Lang.REASON + ':* ```' + AFK.reason + '```') : ''));
 	}
 });
 
