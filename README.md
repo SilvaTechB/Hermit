@@ -60,40 +60,10 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
     <br>
 <a href='https://railway.app/template/q20OfH?referralCode=b9IKyc' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
-#### RUN ON VPS/UBUNTU/WINDOWS
-
-1. Install NodeJs,ffmpeg
-2. Installation
-   ```
-   $ npm i -global pm2
-   $ git clone https://github.com/A-d-i-t-h-y-a-n/hermit-md.git
-   $ cd hermit-md
-   $ npm install
-   ```
-3. Configuration
-   ```
-   $ echo "VPS = true
-     SESSION_ID = null
-     AUTH_FILE = session
-     SUDO = null
-     PREFIX = .
-     MODE = private
-     LOG_MSG = true" > config.env
-   ```
-- Start
-  ```
-  $ npm start
-  ```
-- Stop
-  ```
-  $ pm2 delete hermit-md
-  ```
-<br>
-
-For help visit [Github wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki)
+For help visit [Github wiki](https://github.com/SilvaTechB/Hermit/wiki)
 
 ***
-<a href="https://whatsapp.com/channel/0029Va4OxFAGk1FjrFvTJa1V"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+<a href="https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-maroom?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## Support Me
 
@@ -101,13 +71,13 @@ If you find this project helpful and would like to support my efforts, you can s
 
 1. **Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/adithyanr">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/silvatechke">
   <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
 </a>
 
 
 2. **Donate USDT (Tether) Crypto**: You can also support me by donating crypto directly to my USDT wallet. Your contribution will go a long way in helping me improve and maintain this project.
 
-   Crypto Wallet Address: `0x816a82f51b45e97ffeff60e177ae79f5ae971efb`
+   Crypto Wallet Address: `254700143167`
 
 Your generosity is greatly appreciated!
