@@ -1,10 +1,10 @@
 {
-  "name": "hermit-md",
+  "name": "hermit-md ²⁰²⁴ ∅ 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/A-d-i-t-h-y-a-n/hermit-md",
+  "repository": "https://github.com/SilvaTechB/Hermit",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -15,15 +15,15 @@
     "SUDO": {
       "description": "owner number of the bot",
       "required": true,
-      "value": "null"
+      "value": "254700143167"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
     "ALWAYS_ONLINE": {
-      "description": "show bot number last seen as online",
+      "description": "true or false",
       "required": false,
       "value": "false"
     },
@@ -48,7 +48,7 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "ʜᴇʀᴍɪᴛ;²⁰²⁴ ∅ 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋;254700143167;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
